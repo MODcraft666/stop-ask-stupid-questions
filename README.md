@@ -6,7 +6,6 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 ![you-are-not-prepared.png](/images/you-are-not-prepared.png)
 
-> 感谢群友 `for you` 提供
 
 ## 提问前你必须需要知道的事情
 
